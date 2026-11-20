@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Gasoso
-  m_Shader: {fileID: 4800000, guid: dddb01b6e92971347a66fa5a3d60b6c1, type: 3}
+  m_Shader: {fileID: 4800000, guid: 08879c903f2c1214ca73a9bb4bf091da, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
